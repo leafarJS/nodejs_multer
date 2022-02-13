@@ -1,0 +1,25 @@
+{
+  "name": "nodeimage",
+  "version": "0.0.1",
+  "description": "subir imagenes con multer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "NODEJS",
+    "multer",
+    "javascript"
+  ],
+  "author": "JORGE RAFAEL",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "multer": "^1.4.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
